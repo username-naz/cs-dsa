@@ -2,7 +2,7 @@
 #include <math.h>
 
 struct BigInt {
-    char digits[14000];
+    char digits[5000];
     int length;
 };
 
